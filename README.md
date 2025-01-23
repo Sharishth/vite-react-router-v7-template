@@ -1,6 +1,12 @@
 # vite-react-router-v7-template
 This template is a boilerplate project designed to kickstart web applications using Vite for fast development, React for building dynamic user interfaces, and React Router v7 for seamless client-side navigation.
 
+For Node:
+
+- Node - v20.11.1
+- npm - 10.9.2
+- tailwind - 3.4
+
 # React + Vite + React Router v7
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules along with routing.
