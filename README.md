@@ -5,7 +5,6 @@ For Node:
 
 - Node - v20.11.1
 - npm - 10.9.2
-- tailwind - 3.4
 
 # React + Vite + React Router v7
 
